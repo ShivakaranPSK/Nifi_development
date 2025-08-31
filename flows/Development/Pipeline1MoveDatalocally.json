@@ -86,7 +86,7 @@
       },
       "properties" : {
         "Create Missing Directories" : "true",
-        "Directory" : "\\Users\\shiva\\Downloads\\Output",
+        "Directory" : "\\Users\\shiva\\Downloads\\Output2",
         "Conflict Resolution Strategy" : "fail"
       },
       "propertyDescriptors" : {
@@ -296,6 +296,6 @@
   "snapshotMetadata" : {
     "author" : "78d4da02-ac04-4104-b2c7-ff95e93b2ae2",
     "flowIdentifier" : "Pipeline1MoveDatalocally",
-    "timestamp" : 1756663689565
+    "timestamp" : 1756663873085
   }
 }
