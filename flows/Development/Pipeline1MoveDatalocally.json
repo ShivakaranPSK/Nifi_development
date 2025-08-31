@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1756663688460,
+    "description" : "",
+    "identifier" : "Pipeline1MoveDatalocally",
+    "lastModifiedTimestamp" : 1756663688460,
+    "name" : "Pipeline_1_Move_Data_locally",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
